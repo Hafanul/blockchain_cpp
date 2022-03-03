@@ -93,4 +93,3 @@ For a block to be immutable, its properties are private and there are only metho
 
 ### Author
 
-tk2@illinois.edu
